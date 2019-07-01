@@ -1,12 +1,11 @@
 .canvas{
     height: 300px;
-    width: 1200px;
+    width: 600px;
     margin: 0 auto;
 }
 
-.canvas{
+.vrview{
     width: 600px;
     height: 300px;
     margin: 0 auto;
-    
 }
