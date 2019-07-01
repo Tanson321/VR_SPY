@@ -9,3 +9,16 @@
     height: 300px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 480px){
+    .canvas{
+        width: 90vw;
+        margin: 0 auto;
+    }
+
+    .vrview{
+        width: auto;
+        height: 250px;
+        margin: 0 auto;
+    }
+}
