@@ -23,6 +23,6 @@ function onVRViewReady(e){
 
 function onVRViewClick(e){
   if(e.id == 'spot1'){
-      alert("ホットスポット1がクリックされました！");
+      alert("正解！");
   }
 };
