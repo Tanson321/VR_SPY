@@ -3,7 +3,7 @@ window.addEventListener('load', onVrViewLoad);
 function onVrViewLoad() {
 
   var vrView = new VRView.Player('#vrview', {
-    image: 'https://raw.githubusercontent.com/Tanson321/image_stock/master/map_tomon.jpg',
+    image: 'https://raw.githubusercontent.com/Tanson321/image_stock/master/001.jpg',
     width:  '100%',
     height: '100%',
     is_autopan_off: true
